@@ -1,2 +1,2 @@
 # Sign-Language-MNIST
-Implementing American sign language prediction using Keras (Sequential ANN) with Tensorflow backend.
+Keras implementation of CNN for training a model, thereby making it capacle of classifying the different hand-signs in the 'American Sign Language'.  
